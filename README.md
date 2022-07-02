@@ -132,18 +132,26 @@ https://user-images.githubusercontent.com/83863629/177009403-e6ad2f56-5f13-473e-
 
 ### STEP 3: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Deployment
 
-It is time to deploy our first sample subnet on Loacal Server. I will calling the Subnet "hello world" (instead of "hello World", you can choose to name yours anything as desired - feel free to play around)
+It is time to deploy our first sample subnet on Local Server. I will name the Subnet "hello world" (you can choose to name yours anything as desired - feel free to play around)
 
-(i) Create a Subnet named "hello world" - use the "avalanche subnet create" command with your chosen Subnet name (in my case is "hellow world")
+(i) Create a Subnet named "hello world" - use the "avalanche subnet create" command with your chosen Subnet name (in my case is "hello world")
+~~~javascript
 avalanche subnet create hello world
+~~~
 
-This will trigger a pre-build easy to follow template for you to fill all essential parameters to setup the genesis file for your subnet
+This will trigger a pre-built easy to follow template for you to fill all essential parameters to setup the genesis file for your subnet
+
 NOTE: Genesis file - is a file containing the essential configurations that determines how your Subnet will funtion including gas fees and other features. To customize it beyond the default template provided in the Avalanche CLI for yout project, <b> [see this guide here](https://docs.avax.network/subnets/create-a-local-subnet#create-a-custom-subnet-configuration) </b>
 
+#### Some of the questions are:
 
+#### Choose your VM (Virtual Machine): Core of any Blockchain which determines how code is executed including the programming language that can interact with the Blockchain.
 
+I pick SubnetEVM (this is reconfigured and means it works with Ethereum Virtual Machine which will allow me to deploy Solidity based smart contract later on)
 
+#### Enter Chain ID: - a unique ID for your Blockchain - No two Blockchains can have smae ID. You can use tools like Chainlist.org to check if your choosing chain id is not taken yet, if its taken, your setup will fail to deploy when setting up Subnet for mainnet later down the line.
 
+I used "1234567890210" (That is isanely long and not recommended - just for sample purpose only)
 
 
 
