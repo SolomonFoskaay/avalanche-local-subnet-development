@@ -130,20 +130,22 @@ https://user-images.githubusercontent.com/83863629/177009403-e6ad2f56-5f13-473e-
 
 <br/>
 
-### STEP 3: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Deployment
+### STEP 3: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Creation
 
 It is time to deploy our first sample subnet on Local Server. I will name the Subnet "hello world" (you can choose to name yours anything as desired - feel free to play around)
 
-(i) Create a Subnet named "hello world" - use the "avalanche subnet create" command with your chosen Subnet name (in my case is "hello world")
+Create a Subnet named "hello world" - use the "avalanche subnet create" command with your chosen Subnet name (in my case is "helloworld" - avoid using space between the Subnet name to avoid mismatched number of agument/parameter error)
 ~~~javascript
-avalanche subnet create hello world
+avalanche subnet create helloworld
 ~~~
 
 This will trigger a pre-built easy to follow template for you to fill all essential parameters to setup the genesis file for your subnet
 
 NOTE: Genesis file - is a file containing the essential configurations that determines how your Subnet will funtion including gas fees and other features. To customize it beyond the default template provided in the Avalanche CLI for yout project, <b> [see this guide here](https://docs.avax.network/subnets/create-a-local-subnet#create-a-custom-subnet-configuration) </b>
 
-#### Some of the questions are:
+### Some of the questions are:
+
+Have included a video walkthrough below to help incase you get stuck following the text below.
 
 #### Choose your VM (Virtual Machine): 
 
@@ -172,7 +174,7 @@ Yeah, you get to choose who gets the initial native token airdrop as desired.
 
 > In this case I go with the sample 1Million airdrop to ensure I have the token to pay for fee on the Subnet once deployed - though this not recommended for mainnet subnet launch
 
-#### Custome precompile:
+#### Custom precompile:
 Want more customization for your Virtual Machine (In our case it the previously selected SubnetEVM). Add it here
 
 > No, not time to customize, so I selected NO - Yeah!
@@ -187,7 +189,22 @@ LFG
 
 
 
+https://user-images.githubusercontent.com/83863629/177012039-9a6733d2-3cd8-4365-aad9-891ddd058620.mp4
 
+
+
+
+
+<br>
+
+### STEP 4: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Deployment
+
+Yeah, its time to deploy our Subnet to the local Avalanche network.
+
+Deploy the "helloworld" Subnet created previously with the following command:
+~~~javascript
+avalanche subnet deploy helloworld
+~~~
 
 
 
