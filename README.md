@@ -70,10 +70,15 @@ As a new Lnux OS user, I got error when tryng to download needed packages but th
 Error: 
 > command "curl" not found
 
+<img src="https://github.com/SolomonFoskaay/avalanche-local-subnet-development/blob/main/images/Deploy-Avalanche-Subnet-Locally-Images-001a-Error-CURL.png" width="75%" height="75%">
+
+
 Fix: run this command in terminal:
 ~~~javascript
 sudo apt install curl
 ~~~
+
+<img src="https://github.com/SolomonFoskaay/avalanche-local-subnet-development/blob/main/images/Deploy-Avalanche-Subnet-Locally-Images-001b-Install-CURL.png" width="75%" height="75%">
 
 Once that confirmed to be on your Linux machine, its time to download needed packages for Subnet setup locally.
 
