@@ -65,9 +65,10 @@ You don't actually need much packages due to how easy Avalanche team has made th
 If your Linux installation is old (meaning you have been using it for development in the past), then you are almost already set. But, if your Linux installation is fairly new (like mine, sincerely this was my first time of using full stand alone Linux, do use it previously on Windows via WSL but decided to go all in to Linux to actually see how easy it could be to setup Subnets and I was completely blown away how easier it end up been for first time Linux user like me to setup Subnet on local environment- so, you can do it too following this tutorial).
 
 
-As a new user, I got error which tryng to download needed package but the fix is simple,
+As a new Lnux OS user, I got error when tryng to download needed packages but the fix is simple,
 
-Error: command "curl" not found
+Error: 
+> command "curl" not found
 
 Fix: run this command in terminal:
 ~~~javascript
@@ -76,6 +77,7 @@ sudo apt install curl
 
 Once that confirmed to be on your Linux machine, its time to download needed packages for Subnet setup locally.
 
+<br/>
 
 ### STEP 2: Installation Procedures
 
@@ -106,7 +108,7 @@ To confirm if our above steps downloaded and installed neccessary packages and d
 ls
 It should show "Avalanche" folder
 
-
+<br/>
 
 ### STEP 3: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Deployment
 
