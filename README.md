@@ -19,13 +19,13 @@ Avalanche is a network of Blockchains aimed at solving the issues around scalabi
 
 It is currently made up of three (3) chains.
 
-X-Chain - Handles Exchanges
+<b> [X-Chain - Handles Exchanges](https://docs.avax.network/overview/getting-started/avalanche-platform#exchange-chain-x-chain) </b>
 
-C-Chain - Handles Contracts development on Avalanche network
+<b> [C-Chain - Handles Contracts development on Avalanche network](https://docs.avax.network/overview/getting-started/avalanche-platform#contract-chain-c-chain) </b>
 
-P-Chain - Platform Chain
+<b> [P-Chain - Platform Chain handles validators and more.](https://docs.avax.network/overview/getting-started/avalanche-platform#platform-chain-p-chain) </b>
 
-<b> [Learn More Here](https://docs.avax.network/overview/getting-started/avalanche-platform) </b>
+<b> [Learn More About Avalance Primary Chain Blockchain Structures Here](https://docs.avax.network/overview/getting-started/avalanche-platform) </b>
 
 
 
