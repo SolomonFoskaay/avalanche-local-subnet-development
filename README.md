@@ -52,7 +52,7 @@ What about if those Play-To-Earn games each can have there own Blockchain dedica
 
 (ii) Linux/MacOS (Not available for Windows as at time of publishing this tutorial - For Windows users, a trick is to set Windows SubSystem for Linux or Virtual Machine - both gives you access to Linux OS capabilities on your Windows OS)
 
-NOTE: I will be using Linux for this tutorial (its Ubuntu 20.04 LTS but you should be able to follow using any othe Linux distros out there)
+NOTE: I will be using Linux for this tutorial (its Ubuntu 20.04 LTS but you should be able to follow using any other Linux distros out there)
 
 (iii) General Programming Knowledge 
 
@@ -60,7 +60,7 @@ NOTE: I will be using Linux for this tutorial (its Ubuntu 20.04 LTS but you shou
 
 ### STEP 1: Downloading Needed Packages
 
-You don't actually need much packages due to how easy Avalanche team has made this for developers with the Avalanche CLI (lots have been bundled in their to make devs life easier - interesting and kudos to the Avalanche team for this)
+You don't actually need much packages due to how easy Avalanche team has made this for developers with the Avalanche CLI (lots have been bundled in there to make devs life easier - interesting and kudos to the Avalanche team for this)
 
 If your Linux installation is old (meaning you have been using it for development in the past), then you are almost already set. But, if your Linux installation is fairly new (like mine, sincerely this was my first time of using full stand alone Linux, do use it previously on Windows via WSL but decided to go all in to Linux to actually see how easy it could be to setup Subnets and I was completely blown away how easier it end up been for first time Linux user like me to setup Subnet on local environment- so, you can do it too following this tutorial).
 
