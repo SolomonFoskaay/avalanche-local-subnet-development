@@ -46,7 +46,7 @@ What about if those Play-To-Earn games each can have there own Blockchain dedica
 
 ## SECTION 2: DEEP DIVE
 
-Dev Tools Needed To Setup Subnet On Your Local Development Environment
+### Dev Tools Needed To Setup Subnet On Your Local Development Environment
 
 (i) Avalance CLI
 
@@ -56,7 +56,7 @@ NOTE: I will be using Linux for this tutorial (its Ubuntu 20.04 LTS but you shou
 
 (iii) General Programming Knowledge 
 
-
+<br/>
 
 ### STEP 1: Downloading Needed Packages
 
