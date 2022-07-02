@@ -219,7 +219,9 @@ Have also included a video walkthrough below to help incase you get stuck follow
 #### Choose a network to deploy on: 
 
 Local Network - Deploy on your own computer (totally free)
+
 Fuji - Testnet (no real money involved but need fake testnet AVAX token to deploy - check AVAX faucet to get some free)
+
 Mainnet - The actual network, cost real money to deploy on 
 
 > I pick Local option since this tutorial is focusing on local deployment (others may be done in the future - so kindly let me know if this tutorial was helpful and need for others too)
