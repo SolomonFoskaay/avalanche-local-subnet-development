@@ -121,6 +121,13 @@ ls
 ~~~
 It should show "Avalanche" folder
 
+
+
+https://user-images.githubusercontent.com/83863629/177009403-e6ad2f56-5f13-473e-9447-3e505fb576f2.mp4
+
+
+
+
 <br/>
 
 ### STEP 3: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Deployment
