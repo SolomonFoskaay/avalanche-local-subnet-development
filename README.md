@@ -57,6 +57,7 @@ NOTE: I will be using Linux for this tutorial (its Ubuntu 20.04 LTS but you shou
 (iii) General Programming Knowledge 
 
 <br/>
+<br/>
 
 ### STEP 1: Downloading Needed Packages
 
@@ -82,6 +83,7 @@ sudo apt install curl
 
 Once that confirmed to be on your Linux machine, its time to download needed packages for Subnet setup locally.
 
+<br/>
 <br/>
 
 ### STEP 2: Installation Procedures
@@ -129,6 +131,8 @@ https://user-images.githubusercontent.com/83863629/177009403-e6ad2f56-5f13-473e-
 
 
 <br/>
+<br/>
+
 
 ### STEP 3: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Creation
 
@@ -196,6 +200,8 @@ https://user-images.githubusercontent.com/83863629/177012039-9a6733d2-3cd8-4365-
 
 
 <br>
+<br/>
+
 
 ### STEP 4: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Deployment
 
