@@ -82,15 +82,19 @@ Once that confirmed to be on your Linux machine, its time to download needed pac
 curl -sSfL https://raw.githubusercontent.com/ava-labs/avalanche-cli/main/scripts/install.sh | sh -s
 ~~~
 
-NOTE: This will install the Avalanche CLI packages and depencies in "./" path. If you want it to be in a custom path, you can do that following the guide <a href
+NOTE: This will install the Avalanche CLI packages and depencies in "./" path. If you want it to be in a custom path, you can do that following <b><a href="https://docs.avax.network/subnets/create-a-local-subnet#installing-in-custom-location">this guide here</a></b>
 
 (iii) Add Binary to path with following commands
-
+~~~javascript
 cd bin
+~~~
+
 
 Then,
-
+~~~javascript
 export PATH=$PWD:$PATH
+~~~
+
 
 (iv) Check Avalanche folder setup
 To confirm if our above steps downloaded and installed neccessary packages and dependencies in a folder called Avalanche, run this command
@@ -99,14 +103,15 @@ It should show "Avalanche" folder
 
 
 
-STEP 3: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Deployment
+### STEP 3: Using The Setup To Demonstrate A Simple ‘hello world’ Local Subnet Deployment
+
 It is time to deploy our first sample subnet on Loacal Server. I will calling the Subnet "hello world" (instead of "hello World", you can choose to name yours anything as desired - feel free to play around)
 
 (i) Create a Subnet named "hello world" - use the "avalanche subnet create" command with your chosen Subnet name (in my case is "hellow world")
 avalanche subnet create hello world
 
 This will trigger a pre-build easy to follow template for you to fill all essential parameters to setup the genesis file for your subnet
-NOTE: Genesis file - is a file containing the essential configurations that determines how your Subnet will funtion including gas fees and other features. To customize it beyond the default template provided in the Avalanche CLI for yout project, see this guide here (https://docs.avax.network/subnets/create-a-local-subnet#create-a-custom-subnet-configuration)
+NOTE: Genesis file - is a file containing the essential configurations that determines how your Subnet will funtion including gas fees and other features. To customize it beyond the default template provided in the Avalanche CLI for yout project, <b><a href="https://docs.avax.network/subnets/create-a-local-subnet#create-a-custom-subnet-configuration">see this guide here</a></b>
 
 
 
