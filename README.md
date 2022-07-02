@@ -212,6 +212,23 @@ Deploy the "helloworld" Subnet created previously with the following command:
 avalanche subnet deploy helloworld
 ~~~
 
+### Some of the questions are:
+
+Have also included a video walkthrough below to help incase you get stuck following the text below.
+
+#### Choose a network to deploy on: 
+
+Local Network - Deploy on your own computer (totally free)
+Fuji - Testnet (no real money involved but need fake testnet AVAX token to deploy - check AVAX faucet to get some free)
+Mainnet - The actual network, cost real money to deploy on 
+
+> I pick Local option since this tutorial is focusing on local deployment (others may be done in the future - so kindly let me know if this tutorial was helpful and need for others too)
+
+NOTE: This could take a while based on your network strenght but mine was done within 3Minutes.
+
+Also, copy and paste the Metamask part in a text  document for later use which includes the wallet where the airdroped token was sent and its private key to access the wallet and fake/test funds later.
+
+
 
 
 
