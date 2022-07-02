@@ -230,6 +230,10 @@ Also, copy and paste the Metamask part in a text  document for later use which i
 
 
 
+https://user-images.githubusercontent.com/83863629/177013665-1e905e99-0145-4b82-8ac1-32aabc0462f6.mp4
+
+Yeah we successfully deployed an "hello world" Subnet on our local Avalanche development network environment.
+
 
 
 Troubleshoot common issues
@@ -246,3 +250,9 @@ Bonus point: explain how to experiment with different customization by creating/
 
 
 SECTION 3: CONCLUSSION
+
+### Additional Resources
+
+[Avalanche Network Code](https://docs.avax.network/subnets/create-a-local-subnet#network)
+
+
