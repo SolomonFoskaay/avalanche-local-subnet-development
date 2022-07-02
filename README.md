@@ -105,7 +105,9 @@ export PATH=$PWD:$PATH
 
 (iv) Check Avalanche folder setup
 To confirm if our above steps downloaded and installed neccessary packages and dependencies in a folder called Avalanche, run this command
+~~~javascript
 ls
+~~~
 It should show "Avalanche" folder
 
 <br/>
