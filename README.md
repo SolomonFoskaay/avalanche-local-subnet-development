@@ -6,20 +6,29 @@ A Beginner Friendly Step-By-Step Guide To Create /Deploy Subnets on Avalanche Lo
 ## SECTION 1: INTRODUCTION
 
 What You Will Learn In This Tutorial?
+
 You will discover what Avalanche Subnets are and how to set it up in your local development environment. This literarily means at the end of this tutorial you will be able to have your own EVM compactible Blockchain deployed to your local server(Thanks to the power of Avalanche Blockchain), using its own native token for gas fees, own custom chain ID, connect to metamask, ready to take smart contract deployed on it and a lot more.
 
-So, if you are ready lets get started. Though, I will try my best to ensure this is as beginner friendly as possible, yet, basic/general programming concept knowledge is of advantage. This is not meant to be first tutorial to take for absolute beginners to Programming fundamentals.
+Though, I will try my best to ensure this is as beginner friendly as possible, yet, basic/general programming concept knowledge is of advantage. This is not meant to be first tutorial to take for absolute beginners to Programming fundamentals.
 
-What Is Avalanche?
+So, if you are ready lets get started. 
+
+### What Is Avalanche?
+
 Avalanche is a network of Blockchains aimed at solving the issues around scalability faced by decentralized Blockchains like Ethereum. Avalance aim to achieve this without sacrificing security and decentralization.
 
 It is currently made up of three (3) chains.
+
 X-Chain
+
 C-Chain
+
 P-Chain 
 
-What Is Subnet?
-In a simple term, Subnet is a laser/niche focused Blockchain which is part of the overall huge Avalanche main chain network. This makes it possible for individuals, coporate organizations and even government to deploy their own Blockchain with full control of the fee structure, privacy, contents allowed, KYC and more without been limited by the main Avalanche Blockchain network.
+
+### What Is Subnet?
+
+In a simple term, Subnet is a laser targeted/niche focused Blockchain which is part of the overall huge Avalanche main chain network. This makes it possible for individuals, coporate organizations and even government to deploy their own Blockchain with full control of the fees structure, privacy, contents allowed, KYC and more without been limited by the main Avalanche Blockchain network.
 This innovation is indeed the beginning of a new chapter to lasting scalability solution.
 
 Imagine for a second, one of the issues and bottle neck of Blockchains like Ethereum is the all-purpose use which sometimes attract transaction intensive dApps like Play-to-earn- games to deploy on it. And as history have it, at peak season, these type of dApps do huge transactions that have several times overwhelmed the Ethereum Blockchain transaction processing capability, caused stuck transactions, increase in gas fees beyond resonable range and eventually rendering the Blockchain less accessible for everyday transactional useage.
@@ -31,17 +40,21 @@ Avalanche Subnets are dedicated chains for specific use cases all linked togethe
 
 
 
-SECTION 2: DEEP DIVE
+## SECTION 2: DEEP DIVE
 
 Dev Tools Needed To Setup Subnet On Your Local Development Environment
+
 (i) Avalance CLI
+
 (ii) Linux/MacOS (Not available for Windows as at time of publishing this tutorial - For Windows users, a trick is to set Windows SubSystem for Linux or Virtual Machine - both gives you access to Linux OS capabilities on your Windows OS)
+
 NOTE: I will be using Linux for this tutorial (its Ubuntu 20.04 LTS but you should be able to follow using any othe Linux distros out there)
+
 (iii) General Programming Knowledge 
 
 
 
-STEP 1: Downloading Needed Packages
+### STEP 1: Downloading Needed Packages
 
 You don't actually need much packages due to how easy Avalanche team has made this for developers with the Avalanche CLI (lots have been bundled in their to make devs life easier - interesting and kudos to the Avalanche team for this)
 
@@ -53,19 +66,23 @@ As a new user, I got error which tryng to download needed package but the fix is
 Error: command "curl" not found
 
 Fix: run this command in terminal:
+~~~javascript
 sudo apt install curl
+~~~
 
 Once that confirmed to be on your Linux machine, its time to download needed packages for Subnet setup locally.
 
 
-STEP 2: Installation Procedures
+### STEP 2: Installation Procedures
 
-(i) Open Terminal 
-Shortcut is Ctrl+Alt+T
+(i) Open Terminal - Shortcut is Ctrl+Alt+T
 
 (ii) Run following command:
+~~~javascript
 curl -sSfL https://raw.githubusercontent.com/ava-labs/avalanche-cli/main/scripts/install.sh | sh -s
-NOTE: This will install the Avalanche CLI packages and depencies in "./" path. If you want it to be in a custom path, you can do that following the guide here (https://docs.avax.network/subnets/create-a-local-subnet#installing-in-custom-location)
+~~~
+
+NOTE: This will install the Avalanche CLI packages and depencies in "./" path. If you want it to be in a custom path, you can do that following the guide <a href
 
 (iii) Add Binary to path with following commands
 
