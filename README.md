@@ -25,9 +25,8 @@ C-Chain - Handles Contracts development on Avalanche network
 
 P-Chain - Platform Chain
 
-<b>
-[Learn More Here](https://docs.avax.network/overview/getting-started/avalanche-platform)
-</b>
+<b> [Learn More Here](https://docs.avax.network/overview/getting-started/avalanche-platform) </b>
+
 
 
 ### What Is Subnet?
