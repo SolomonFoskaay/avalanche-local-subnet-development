@@ -19,11 +19,15 @@ Avalanche is a network of Blockchains aimed at solving the issues around scalabi
 
 It is currently made up of three (3) chains.
 
-X-Chain
+X-Chain - Handles Exchanges
 
-C-Chain
+C-Chain - Handles Contracts development on Avalanche network
 
-P-Chain 
+P-Chain - Platform Chain
+
+<b>
+[Learn More Here](https://docs.avax.network/overview/getting-started/avalanche-platform#:~:text=Avalanche%20features%203%20built%2Din,secured%20by%20the%20Primary%20Network)
+</b>
 
 
 ### What Is Subnet?
