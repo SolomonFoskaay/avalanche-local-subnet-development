@@ -65,7 +65,7 @@ You don't actually need much packages due to how easy Avalanche team has made th
 If your Linux installation is old (meaning you have been using it for development in the past), then you are almost already set. But, if your Linux installation is fairly new (like mine, sincerely this was my first time of using full stand alone Linux, do use it previously on Windows via WSL but decided to go all in to Linux to actually see how easy it could be to setup Subnets and I was completely blown away how easier it end up been for first time Linux user like me to setup Subnet on local environment- so, you can do it too following this tutorial).
 
 
-As a new Lnux OS user, I got error when tryng to download needed packages but the fix is simple,
+As a new Linux OS user, I got error when tryng to download needed packages but the fix is simple,
 
 Error: 
 > command "curl" not found
