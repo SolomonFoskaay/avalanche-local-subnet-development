@@ -147,11 +147,11 @@ NOTE: Genesis file - is a file containing the essential configurations that dete
 
 #### Choose your VM (Virtual Machine): Core of any Blockchain which determines how code is executed including the programming language that can interact with the Blockchain.
 
-I pick SubnetEVM (this is reconfigured and means it works with Ethereum Virtual Machine which will allow me to deploy Solidity based smart contract later on)
+> I pick SubnetEVM (this is reconfigured and means it works with Ethereum Virtual Machine which will allow me to deploy Solidity based smart contract later on)
 
 #### Enter Chain ID: - a unique ID for your Blockchain - No two Blockchains can have the same Chain ID. You can use tools like <b> [Chainlist.org](https://chainlist.org/) </b> to check if your choosen chain id is not taken yet, if its taken, your setup will fail to deploy when setting up Subnet for mainnet later down the line.
 
-I used "1234567890210" (That is insanely long and not recommended - just for sample purpose only)
+> I used "1234567890210" (That is insanely long and not recommended - just for sample purpose only)
 
 
 
