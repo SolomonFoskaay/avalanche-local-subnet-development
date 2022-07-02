@@ -111,7 +111,7 @@ It is time to deploy our first sample subnet on Loacal Server. I will calling th
 avalanche subnet create hello world
 
 This will trigger a pre-build easy to follow template for you to fill all essential parameters to setup the genesis file for your subnet
-NOTE: Genesis file - is a file containing the essential configurations that determines how your Subnet will funtion including gas fees and other features. To customize it beyond the default template provided in the Avalanche CLI for yout project, <b> [see this guide here]([https://www.genome.gov/](https://docs.avax.network/subnets/create-a-local-subnet#create-a-custom-subnet-configuration) </b>
+NOTE: Genesis file - is a file containing the essential configurations that determines how your Subnet will funtion including gas fees and other features. To customize it beyond the default template provided in the Avalanche CLI for yout project, <b> [see this guide here](https://docs.avax.network/subnets/create-a-local-subnet#create-a-custom-subnet-configuration) </b>
 
 
 
