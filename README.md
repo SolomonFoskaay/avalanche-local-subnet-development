@@ -82,7 +82,8 @@ Once that confirmed to be on your Linux machine, its time to download needed pac
 curl -sSfL https://raw.githubusercontent.com/ava-labs/avalanche-cli/main/scripts/install.sh | sh -s
 ~~~
 
-NOTE: This will install the Avalanche CLI packages and depencies in "./" path. If you want it to be in a custom path, you can do that following <b><a href="https://docs.avax.network/subnets/create-a-local-subnet#installing-in-custom-location" target="_blank" rel="noopener noreferrer">this guide here</a></b>
+NOTE: This will install the Avalanche CLI packages and depencies in "./" path. If you want it to be in a custom path, you can do that following <b> [the guide here](https://docs.avax.network/subnets/create-a-local-subnet#installing-in-custom-location) </b>
+
 
 (iii) Add Binary to path with following commands
 ~~~javascript
