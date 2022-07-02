@@ -38,9 +38,10 @@ Imagine for a second, one of the issues and bottle neck of Blockchains like Ethe
 
 What about if those Play-To-Earn games each can have there own Blockchain dedicated to them, seperated from less intensive onchain activities, then it prevent the buttle neck for both the game platform, their users and other general uses of the Blockchain. That is precisely what Avalanche Subnets are aiming to solve. 
 
-Avalanche Subnets are dedicated chains for specific use cases all linked together under one main Avalanche ecosystem. 
+> Avalanche Subnets are dedicated chains for specific use cases all linked together under one main Avalanche ecosystem. 
 
-
+<br/>
+<br/>
 
 
 ## SECTION 2: DEEP DIVE
