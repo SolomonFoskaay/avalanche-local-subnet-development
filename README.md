@@ -157,6 +157,38 @@ A unique ID for your Blockchain - No two Blockchains can have the same Chain ID.
 
 > I used "1234567890210" (That is insanely long and not recommended - just for sample purpose only)
 
+#### Token symbol:
+Selecting a token symbol is same as Bitcoin represented as BTC, Ethereum as ETH and Avalanche as AVAX. Choose your token symbol here for the native token of the Subnet
+
+> I used HWTK (representing Hello World Token)
+
+#### Gas fees:
+How much you want to be charging per transaction via your subnet?
+
+> I choose the lowest to align with Avalanche mainnet gas fees structure. You can select higher depending on your Subnet usecase
+
+#### Airdrop initial token
+Yeah, you get to choose who gets the initial native token airdrop as desired.
+
+> In this case I go with the sample 1Million airdrop to ensure I have the token to pay for fee on the Subnet once deployed - though this not recommended for mainnet subnet launch
+
+#### Custome precompile:
+Want more customization for your Virtual Machine (In our case it the previously selected SubnetEVM). Add it here
+
+> No, not time to customize, so I selected NO - Yeah!
+
+Wahoo, we did it. 
+
+Our Genesis file successfully created for our Subnet
+
+We can now deploy the subnet
+
+LFG
+
+
+
+
+
 
 
 
