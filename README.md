@@ -26,7 +26,7 @@ C-Chain - Handles Contracts development on Avalanche network
 P-Chain - Platform Chain
 
 <b>
-[Learn More Here](https://docs.avax.network/overview/getting-started/avalanche-platform#:~:text=Avalanche%20features%203%20built%2Din,secured%20by%20the%20Primary%20Network)
+[Learn More Here](https://docs.avax.network/overview/getting-started/avalanche-platform)
 </b>
 
 
