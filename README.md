@@ -283,7 +283,7 @@ NOTE:
 If you are new to Smart Contract development using Solidity, then you might want to checkout this course I created for <b>[absolute beginners to solidity](https://dprogramminguniversity.com/courses/smart-contract-development-with-solidity-for-beginners/)</b> and its 100% FREE! 
 
 
-(1) See The walk through video below to create the contract without coding using OpenZeppelin:
+**(1) See The walk through video below to create the contract without coding using OpenZeppelin:**
 
 
 
@@ -291,12 +291,18 @@ https://user-images.githubusercontent.com/83863629/177037769-8bda8a60-d908-4c49-
 
 
 
-(2) Deploy the smart contract to our hello world Subnet EVM Blockchain on our local environment
+**(2) Deploy the smart contract to the hello world Subnet EVM Blockchain on our local environment**
 
 Yeah, once the smart contract is ready, its time to deploy it 
 
 Follow the walkthrough video have done for you using [Remix]( below:
 
+https://user-images.githubusercontent.com/83863629/177038927-4744c0f0-4efa-4724-bf9e-63e4d273677b.mp4
+
+
+Congrats we now have our Subnet Blockchain accepting solidity based Smart contract
+
+In next step we will attempt to interact with the smart contract after deployment
 
 
 
