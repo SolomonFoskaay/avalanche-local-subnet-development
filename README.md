@@ -365,6 +365,10 @@ Lets go....
 
 
 
+**(3) Transfer the custom tokens from one wallet to another** 
+
+Let's do a simple transfer of "5,000MSTK" from the wallet used to deploy the token to another wallet to confirm the token contract is working fine on the Subnet Blockchain.
+
 
 
 
