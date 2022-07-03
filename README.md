@@ -268,6 +268,22 @@ https://user-images.githubusercontent.com/83863629/177036333-3da08513-e494-4cbe-
 
 
 
+<br>
+<br/>
+
+
+### STEP 6: Deploy Smart Contracts On Subnets
+
+In this step, lets deploy a simple token smart contract on the Hello World Subnet we have been working on.
+
+I will be using [OpenZeppelin token contract creator wizard](https://docs.openzeppelin.com/contracts/4.x/wizard) to create the smart contract without need to code it myself from sratch (also their contracts are audited and used by top web3 platforms for EVM Blockchains).
+
+NOTE: 
+
+If you are new to Smart Contract development using Solidity, then you might want to checkout this course I created for [absolute beginners to solidity](https://dprogramminguniversity.com/courses/smart-contract-development-with-solidity-for-beginners/) and its 100% FREE! 
+
+See The walk through video below to create the contract without coding using OpenZeppelin:
+
 
 
 
@@ -277,10 +293,6 @@ https://user-images.githubusercontent.com/83863629/177036333-3da08513-e494-4cbe-
 Troubleshoot common issues
 
 Add node validators to the subnet
-
-Access funded accounts
-
-Deploy smart contracts
 
 Interact with contracts
 
