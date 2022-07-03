@@ -243,6 +243,35 @@ Yeah we successfully deployed an "hello world" Subnet on our local Avalanche dev
 
 
 
+<br>
+<br/>
+
+
+### STEP 5: Accessing Funded Account(s) In Metamask
+
+Did you remembered when creating the Subnet earlier in step 3 above we [airdrop 1Million of the Subnet native token (1,000,000HWT)](https://github.com/SolomonFoskaay/avalanche-local-subnet-development/blob/main/README.md#airdrop-initial-token) into a wallet generated for us with its private key.
+
+Its time to access it using the RPC configuration generated when it was deployed. I also told you to copy and paste it from the termnal to a text editor for future use.
+
+To make it easier, here is a walkthrough step-by-step videos for you:
+
+(1) Setup Metamask:
+
+If you are new to Metamask setup - I recently did a video on [How To Setup Metamask For Beginners](https://www.youtube.com/watch?v=naCHfcKh25s) - check it out
+
+(2) Add the funded account for our created helloworld Subnet to Metamask
+
+To make it easier, I have done and included a video to guide you below:
+
+ 
+
+
+
+
+
+
+
+
 Troubleshoot common issues
 
 Add node validators to the subnet
