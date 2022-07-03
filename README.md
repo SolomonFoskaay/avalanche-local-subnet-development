@@ -372,24 +372,49 @@ https://user-images.githubusercontent.com/83863629/177043972-d7310977-8268-4d96-
 Let's do a simple transfer of "5,000MSTK" from the wallet used to deploy the token to another wallet to confirm the token contract is working fine on the Subnet Blockchain.
 
 
+https://user-images.githubusercontent.com/83863629/177044277-017b08bb-9500-4104-9d18-92af0431be54.mp4
 
 
 
 
 
-Troubleshoot common issues
-
-Add node validators to the subnet
 
 
 
-Bonus point: explain how to experiment with different customization by creating/tearing down/recreating
+## SECTION 3: CONCLUSSION
 
+### Troubleshoot common issues
 
-SECTION 3: CONCLUSSION
+You may face different issues. 
+
+Some common ones I experienced are:
+
+**(i) CURL error - **
+
+Which has solved earlier in this totorial
+
+**(2) When deploying the Subnet, the network may not start. **
+
+One of the causes could be that you already have an instance of another previously deployed Subnet still active on your computer. To solve that simple use the commond below:
+```Javascript
+avalanche network clean
+```
+and I got the following output:
+```
+foskaay@Foskaay-N750JV:~/bin$ avalanche network clean
+No local network running
+Process terminated.
+```
+
+For other issues, you can go through helpful guide from Avanlanche Subnet documentation in the additional resources below.
+
 
 ### Additional Resources
 
+[Create Local Subnet](https://docs.avax.network/subnets/create-a-local-subnet)
+
 [Avalanche Network Code](https://docs.avax.network/subnets/create-a-local-subnet#network)
+
+
 
 
