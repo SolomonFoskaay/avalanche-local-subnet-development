@@ -58,7 +58,7 @@ NOTE: I will be using Linux for this tutorial (its Ubuntu 20.04 LTS but you shou
 
 (iii) Metamask
 
-(iii) General Programming Knowledge 
+(iv) General Programming Knowledge 
 
 
 <br/>
