@@ -362,6 +362,8 @@ After minting, the Total Supply of the token will increase from 20,000MSTK to 50
 
 Lets go....
 
+https://user-images.githubusercontent.com/83863629/177043972-d7310977-8268-4d96-bb37-e7d4f64c2084.mp4
+
 
 
 
