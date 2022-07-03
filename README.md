@@ -263,7 +263,9 @@ If you are new to Metamask setup - I recently did a video on [How To Setup Metam
 
 To make it easier, I have done and included a video to guide you below:
 
- 
+https://user-images.githubusercontent.com/83863629/177036333-3da08513-e494-4cbe-b3a0-084a8848524a.mp4
+
+
 
 
 
