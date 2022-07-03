@@ -34,9 +34,11 @@ It is currently made up of three (3) chains.
 In a simple term, Subnet is a laser targeted/niche focused Blockchain which is part of the overall huge Avalanche main chain network. This makes it possible for individuals, coporate organizations and even government to deploy their own Blockchain with full control of the fees structure, privacy, contents allowed, KYC and more without been limited by the main Avalanche Blockchain network.
 This innovation is indeed the beginning of a new chapter to lasting scalability solution.
 
-Imagine for a second, one of the issues and bottle neck of Blockchains like Ethereum is the all-purpose use which sometimes attract transaction intensive dApps like Play-to-earn- games to deploy on it. And as history have it, at peak season, these type of dApps do huge transactions that have several times overwhelmed the Ethereum Blockchain transaction processing capability, caused stuck transactions, increase in gas fees beyond resonable range and eventually rendering the Blockchain less accessible for everyday transactional useage.
+Imagine for a second, one of the issues and bottle neck of Blockchains like Ethereum is the all-purpose use which sometimes attract transaction intensive dApps like Play-to-earn- games to deploy on it. 
 
-What about if those Play-To-Earn games each can have there own Blockchain dedicated to them, seperated from less intensive onchain activities, then it prevent the buttle neck for both the game platform, their users and other general uses of the Blockchain. That is precisely what Avalanche Subnets are aiming to solve. 
+And as history have it, at peak season, these type of dApps do huge transactions that have several times overwhelmed the Ethereum Blockchain transaction processing capability, caused stuck transactions, increase in gas fees beyond resonable range and eventually rendering the Blockchain less accessible for everyday transactional usage.
+
+What about if those Play-To-Earn games each can have there own Blockchain dedicated to them, seperated from less intensive onchain activities, then it prevent the buttle neck for both the game platform, their users and other general users of the Blockchain. That is precisely what Avalanche Subnets are aiming to solve. 
 
 > <b> [Avalanche Subnets](https://docs.avax.network/subnets#subnets) are dedicated chains for specific use cases all linked together under one main [Avalanche Primary Network](http://support.avalabs.org/en/articles/4135650-what-is-the-primary-network) </b>. 
 
@@ -54,7 +56,10 @@ What about if those Play-To-Earn games each can have there own Blockchain dedica
 
 NOTE: I will be using Linux for this tutorial (its Ubuntu 20.04 LTS but you should be able to follow using any other Linux distros out there)
 
+(iii) Metamask
+
 (iii) General Programming Knowledge 
+
 
 <br/>
 <br/>
