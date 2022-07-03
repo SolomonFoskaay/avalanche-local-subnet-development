@@ -276,13 +276,28 @@ https://user-images.githubusercontent.com/83863629/177036333-3da08513-e494-4cbe-
 
 In this step, lets deploy a simple token smart contract on the Hello World Subnet we have been working on.
 
-I will be using [OpenZeppelin token contract creator wizard](https://docs.openzeppelin.com/contracts/4.x/wizard) to create the smart contract without need to code it myself from sratch (also their contracts are audited and used by top web3 platforms for EVM Blockchains).
+I will be using <b>[OpenZeppelin token contract creator wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)</b> to create the smart contract without need to code it myself from sratch (also their contracts are audited and used by top web3 platforms for EVM Blockchains).
 
 NOTE: 
 
-If you are new to Smart Contract development using Solidity, then you might want to checkout this course I created for [absolute beginners to solidity](https://dprogramminguniversity.com/courses/smart-contract-development-with-solidity-for-beginners/) and its 100% FREE! 
+If you are new to Smart Contract development using Solidity, then you might want to checkout this course I created for <b>[absolute beginners to solidity](https://dprogramminguniversity.com/courses/smart-contract-development-with-solidity-for-beginners/)</b> and its 100% FREE! 
 
-See The walk through video below to create the contract without coding using OpenZeppelin:
+
+(1) See The walk through video below to create the contract without coding using OpenZeppelin:
+
+
+
+https://user-images.githubusercontent.com/83863629/177037769-8bda8a60-d908-4c49-9657-55edc42c2ef4.mp4
+
+
+
+(2) Deploy the smart contract to our hello world Subnet EVM Blockchain on our local environment
+
+Yeah, once the smart contract is ready, its time to deploy it 
+
+Follow the walkthrough video have done for you using [Remix]( below:
+
+
 
 
 
